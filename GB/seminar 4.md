@@ -1,4 +1,4 @@
-# <span style="color:red"> Инструкция работы с Git.</span> 
+# <span style="color:red">Инструкция работы с Git.</span> 
 
 ---
 ## Что такое Git?
