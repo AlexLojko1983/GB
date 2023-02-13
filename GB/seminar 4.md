@@ -52,6 +52,15 @@ Git - это одна из систем контроля версий,
 Чтобы посмотреть изменения от последнего 
 сохранения, выполните команду *git diff*.
 
+Добавление картинки
+
 ![Пока все](https://kartinkof.club/uploads/posts/2022-04/1649980813_3-kartinkof-club-p-kartinki-ustalost-prikolnie-4.jpg 
 "Устал")
 
+
+Добавление таблицы
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
