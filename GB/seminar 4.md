@@ -60,6 +60,8 @@ Git - это одна из систем контроля версий,
 
 Добавление таблицы
 
+---
+
 Markdown&nbsp;&nbsp; | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
