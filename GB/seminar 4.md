@@ -69,3 +69,6 @@ Markdown&nbsp;&nbsp; | Less | Pretty
 
 
 Символ &nbsp; увеличивает ширину столбца
+
+
+все хорошо
